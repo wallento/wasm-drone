@@ -1,0 +1,6 @@
+[submodule "wasm-micro-runtime"]
+	path = wasm-micro-runtime
+	url = git@github.com:bytecodealliance/wasm-micro-runtime.git
+[submodule "crazyflie-firmware-wasm"]
+	path = crazyflie-firmware-wasm
+	url = git@github.com:benidiet/crazyflie-firmware-wasm.git
